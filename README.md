@@ -2,7 +2,7 @@
 
 This project implements Linear Regression from scratch using Python, demonstrating the core concepts of machine learning including gradient descent optimization, model evaluation, and data visualization.
 
-![Model Accuracy](Model_Accuracy.png)
+![Visualization Figures](Figures.png)
 
 ## 🚀 Features
 
@@ -111,3 +111,5 @@ w, train_metrics, test_metrics = train_linear_regression(data_path)
 - Gradient descent includes early stopping based on precision
 - Visualizations help in understanding model behavior
 - R² Score is presented as a percentage for better interpretation
+
+![Model Accuracy](Model_Accuracy.png)
