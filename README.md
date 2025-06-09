@@ -77,8 +77,8 @@ python LinearRegression.py
 ### Key Parameters
 
 - `learning_rate`: Controls step size in gradient descent (default: 0.001)
-- `precision`: Convergence threshold (default: 0.0001)
-- `max_iter`: Maximum iterations (default: 500)
+- `precision`: Convergence threshold (default: 0.00001)
+- `max_iter`: Maximum iterations (default: 2500)
 - `test_size`: Proportion of data for testing (default: 0.1)
 
 ## 📈 Output
